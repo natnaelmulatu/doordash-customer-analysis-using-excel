@@ -36,10 +36,10 @@ This project analyzes DoorDash customer transaction and demographic data to:
 ## 📂 Repository Structure
 
 ```text
-├── data
-│   ├── raw_doordash_data.xlsx       # Raw transaction & demographic dataset
-│   └── analyzed_doordash_data.xlsx  # Cleaned and analyzed excel file
-└── README.md                       # Project documentation
+
+├── raw_doordash_data.xlsx       # Raw transaction & demographic dataset
+└── analyzed_doordash_data.xlsx  # Cleaned and analyzed excel file
+└── README.md                    # Project documentation
 ```
 
 ---
