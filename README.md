@@ -37,7 +37,7 @@ This project analyzes DoorDash customer transaction and demographic data to:
 
 ```text
 ├── data
-│   ├── raw_doordash_data.csv       # Raw transaction & demographic dataset
+│   ├── raw_doordash_data.xlsx       # Raw transaction & demographic dataset
 │   └── cleaned_doordash_data.xlsx  # Processed & cleaned data file
 └── README.md                       # Project documentation
 ```
