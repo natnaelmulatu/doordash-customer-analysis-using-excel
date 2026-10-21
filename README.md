@@ -36,13 +36,9 @@ This project analyzes DoorDash customer transaction and demographic data to:
 ## 📂 Repository Structure
 
 ```text
-├── data/
+├── data
 │   ├── raw_doordash_data.csv       # Raw transaction & demographic dataset
 │   └── cleaned_doordash_data.xlsx  # Processed & cleaned data file
-├── dashboard/
-│   └── doordash_analysis_dashboard.xlsx # Interactive Excel Dashboard
-├── docs/
-│   └── key_findings_summary.pdf    # Executive summary presentation
 └── README.md                       # Project documentation
 ```
 
@@ -61,27 +57,3 @@ This project analyzes DoorDash customer transaction and demographic data to:
 3. **Dashboard Construction:**
    * Built dynamic pivot tables and charts linked via slicers (Age, Region, Order Volume).
    * Formatted metrics for executive presentation with a focus on quick insight retrieval.
-
----
-
-## 🚀 How to Use This Project
-
-1. **Clone the repository:**
-   ```bash
-   git clone https://github.com/natnaelmulatu/doordash-customer-analysis-using-excel.git
-   ```
-2. **Open the Dashboard:**
-   * Navigate to the `dashboard/` directory and open `doordash_analysis_dashboard.xlsx` in Microsoft Excel (2016 or newer recommended).
-3. **Interact with the Visualizations:**
-   * Use the embedded slicers to filter data by customer demographics and analyze cohort metrics dynamically.
-
----
-
-## ✍️ Author & Contact
-
-**Nate (Natnael) Mulatu**  
-*Data Analyst | Analytics & Business Intelligence*  
-
-* **LinkedIn:** [Nate Mulatu](https://www.linkedin.com/in/natnaelmulatu)  
-* **GitHub:** [@natnaelmulatu](https://github.com/natnaelmulatu)  
-* **Article:** [Read on LinkedIn Pulse](https://www.linkedin.com/pulse/1m-demographics-trap-how-misreading-customer-age-costing-nate-mulatu-md8fe/)
